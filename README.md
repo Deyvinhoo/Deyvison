@@ -4,7 +4,7 @@
 ### Graduando em Engenharia de Software. Cursando FullStack na Gama Experience XP41 !!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Deyvinhoo&color=f8efd4&style=for-the-badge&logo=GitHub">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deyvinhoo&label=Total%20de%20visualizações&color=0e75b6&style=flat" alt="deyvinhoo" /> </p>
 <p>
 
 Estudando na **Unopar e Gama Academy**<br/>
