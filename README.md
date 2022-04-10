@@ -10,7 +10,7 @@
 
 Studying in **Unopar e Gama Academy**<br/>
 
-I'm a developer **FullSatack**.
+I'm a developer **FullStack**.
 
 <!--   <p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deyvinhoo&theme=onedark&row=1&margin-w=5" alt="deyvinhoo" /></a> </p> -->
 <p><img align="right" style="display:block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=deyvinhoo&show_icons=true&locale=en&layout=compact" alt="deyvinhoo" /></p>
