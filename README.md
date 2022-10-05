@@ -8,7 +8,7 @@
 
 <p>
 
-Studying in **Unopar e Gama Academy**<br/>
+Studying in **Unopar e Step Computer**<br/>
 
 I'm a developer **FullStack**.
 
