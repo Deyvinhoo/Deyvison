@@ -1,7 +1,7 @@
 ### I'm Deyvison Vianna 👋
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=deyvinhoo&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
-### Graduating in Software Engineering. Studying FullStack at Gama Experience XP41 !!
+### Graduating in Software Engineering !!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Deyvinhoo&color=f8efd4&style=for-the-badge&logo=GitHub">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deyvinhoo&label=Profile%20views&color=0e75b6&style=flat" alt="deyvinhoo" /> </p>
